@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/digilexia/static/css/main.18dfb25f.css",
+    "main.js": "/digilexia/static/js/main.7bdc77b6.js",
+    "static/js/218.20d92728.chunk.js": "/digilexia/static/js/218.20d92728.chunk.js",
+    "static/js/609.82788747.chunk.js": "/digilexia/static/js/609.82788747.chunk.js",
+    "static/js/281.e1a715f4.chunk.js": "/digilexia/static/js/281.e1a715f4.chunk.js",
+    "static/js/722.adbf4b9b.chunk.js": "/digilexia/static/js/722.adbf4b9b.chunk.js",
+    "static/js/290.0c1f8a67.chunk.js": "/digilexia/static/js/290.0c1f8a67.chunk.js",
+    "static/js/691.d7e1f965.chunk.js": "/digilexia/static/js/691.d7e1f965.chunk.js",
+    "index.html": "/digilexia/index.html",
+    "main.18dfb25f.css.map": "/digilexia/static/css/main.18dfb25f.css.map",
+    "main.7bdc77b6.js.map": "/digilexia/static/js/main.7bdc77b6.js.map",
+    "218.20d92728.chunk.js.map": "/digilexia/static/js/218.20d92728.chunk.js.map",
+    "609.82788747.chunk.js.map": "/digilexia/static/js/609.82788747.chunk.js.map",
+    "281.e1a715f4.chunk.js.map": "/digilexia/static/js/281.e1a715f4.chunk.js.map",
+    "722.adbf4b9b.chunk.js.map": "/digilexia/static/js/722.adbf4b9b.chunk.js.map",
+    "290.0c1f8a67.chunk.js.map": "/digilexia/static/js/290.0c1f8a67.chunk.js.map",
+    "691.d7e1f965.chunk.js.map": "/digilexia/static/js/691.d7e1f965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18dfb25f.css",
+    "static/js/main.7bdc77b6.js"
+  ]
+}
